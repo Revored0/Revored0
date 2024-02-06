@@ -1,4 +1,7 @@
-<p align="center"Bem vindos ao meu perfil 👋<br><br>Meu nome é João Augusto e atualmente estou caminhando para a stack de front-end.</p>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E02645&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Augusto;Tenho+20+anos;Graduando+em+Engenharia+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Revored0&theme=radical&mode=weekly" />
@@ -8,37 +11,31 @@
  &nbsp;
  &nbsp;
 
-## My Skills
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Revored0&bg_color=0d1117&color=b13583&line=E02645&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Main Stack:
 
+
+
+
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/joao_revoredo?igsh=MW9tdmRtMWp6NTkxaw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:augustobatista48@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joão-augusto-batista-revoredo-b98765230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
+
+### Studying in this moment:
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 
 
-<!-- #### Studying in this moment: 
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; -->
-
-#### Databases:
-
-![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-
-#### Workstation Tools:
-
-
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:contato.augustobatista48@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-augusto-batista-revoredo-b98765230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A01DF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E02645&height=120&section=footer"/>
