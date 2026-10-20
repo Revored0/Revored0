@@ -1,44 +1,73 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E02645&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Augusto;Tenho+22+anos;Sou+Engenheiro+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+# João Augusto Batista Revoredo
 
+**Engenheiro de Software Full Stack · IA aplicada (LLMs/RAG) · LegalTech & GovTech**
 
-<div  align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Revored0&theme=radical&mode=weekly" />
-<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Revored0&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+Jacarezinho, PR — Brasil
 
-[![Revored0's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Revored0&bg_color=0d1117&color=b13583&line=E02645&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Portfólio](https://img.shields.io/badge/Portfólio-revoredodev.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://revoredodev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Revoredo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-augusto-batista-revoredo-b98765230/)
+[![E-mail](https://img.shields.io/badge/E--mail-augustobatista48@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:augustobatista48@gmail.com)
 
+</div>
 
+---
 
+## Sobre mim
 
+Desenvolvo sistemas completos — do banco de dados ao deploy — com foco em **inteligência artificial aplicada** e em **tecnologia para o setor jurídico e público**.
 
+- 🏛️ Programador na **UENP** (Universidade Estadual do Norte do Paraná): Data Lake institucional, sistemas internos e portais
+- ⚖️ Passagem pela **Justiça Federal do Paraná (JFPR)**, com foco em automação e segurança da informação
+- 🤖 Fundador da **PrevTech I.A**, SaaS de IA para advogados previdenciaristas
+- 🎓 Engenharia de Software — UNIFIO (2025) · Certificação em IA pela EMAGIS/TRF4
 
+## Stack
 
+**Back-end:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**Front-end:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Dados & IA:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_&_RAG-6B46C1?style=flat-square&logo=openai&logoColor=white)
 
-<div align="center"> 
-<a href="https://www.instagram.com/joao_revoredo?igsh=MW9tdmRtMWp6NTkxaw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:augustobatista48@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-augusto-batista-revoredo-b98765230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+**Infra:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## Projetos em destaque
 
+> Os repositórios abaixo são privados (código de clientes e instituições). Detalhes e demonstrações sob pedido.
 
-### Studying in this moment:
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[PrevTech I.A](https://prevtech-ia.com)** | SaaS de IA para advogados previdenciaristas, com landing page, app web e deploy próprio em VPS | React · Node.js · LLMs · Nginx |
+| **Sistemas RAG jurídicos** | Assistentes que respondem com base em documentos do escritório (busca semântica + LLM) | TypeScript · LLMs/RAG |
+| **Totem Signage** | Plataforma de sinalização digital para totens e TVs, em produção | Node.js · Express · SQLite · EJS |
+| **Data Lake UENP** | Data Lake institucional e aplicações full stack para a universidade | Python · PostgreSQL |
+| **Ponto biométrico UENP** | Controle de ponto com leitores de digital, cache local e sincronização, em conformidade com a LGPD | Python · FastAPI · SQLite |
+| **Publicações Oficiais UENP** | Busca e filtros em documentos oficiais, com indexação full-text de PDFs e OCR | PHP · JavaScript · MySQL |
+| **SUAP GIS — Origem dos Egressos** | Sistema geográfico que mapeia a origem dos egressos da pós-graduação | GIS · Python |
 
+---
 
+<div align="center">
 
+💼 **Aberto a oportunidades e projetos freelance** — vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-batista-revoredo-b98765230/) ou [e-mail](mailto:augustobatista48@gmail.com).
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E02645&height=120&section=footer"/>
+</div>
