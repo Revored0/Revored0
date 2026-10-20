@@ -124,6 +124,14 @@ Sistema geográfico que mapeia a origem dos egressos da pós-graduação da UENP
 
 <img src="https://streak-stats.demolab.com?user=Revored0&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Revored0/Revored0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Revored0/Revored0/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Revored0/Revored0/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 <br/>
